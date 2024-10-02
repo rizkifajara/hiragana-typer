@@ -2,6 +2,10 @@
 
 HiraganaTyper is a React-based web application designed to help users practice typing Hiragana characters. It features a dynamic Hiragana display, user input validation, and a visual Hiragana keyboard layout.
 
+## Demo
+
+You can try out the live demo of HiraganaTyper here: [HiraganaTyper Demo](https://hiragana-typer.vercel.app/)
+
 ## Features
 
 - Randomized Hiragana character display for practice
